@@ -1,8 +1,5 @@
 import exemplos.Conta;
 import exemplos.Quadrado;
-import exercicios.Circulo;
-
-import java.time.LocalDate;
 
 public class Main {
     public static void main(String[] args) {
@@ -18,9 +15,9 @@ public class Main {
         System.out.println(q1.calcularPerimetro());
 
         //-----------------------------------------
-        Circulo c1 = new Circulo(10.0d);
+ /*       Circulo c1 = new Circulo(10.0d);
         System.out.println("O valor de circulo é: " + c1.calcularArea());
-        System.out.println("O valor do perimetrode  circulo é: "+ c1.calcularPerimentro());
+        System.out.println("O valor do perimetrode  circulo é: "+ c1.calcularPerimentro());*/
 
     }
 }
